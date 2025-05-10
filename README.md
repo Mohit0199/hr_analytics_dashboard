@@ -1,7 +1,7 @@
 # HR Analytics Dashboard
 
 ## Overview
-This PowerBI dashboard provides comprehensive insights into employee attrition and various HR metrics within the organization. The dashboard analyzes multiple factors affecting employee retention and presents key performance indicators (KPIs) to help understand workforce dynamics.
+This PowerBI dashboard provides comprehensive insights into employee attrition and various HR metrics within the organization. The dashboard analyzes multiple factors affecting employee attrition and presents key performance indicators (KPIs) to help understand workforce dynamics.
 
 ## Dashboard Features
 The dashboard includes analysis of employee attrition based on various factors:
