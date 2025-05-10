@@ -14,9 +14,9 @@ The dashboard includes analysis of employee attrition based on various factors:
 The dashboard presents several important KPIs including:
 - Overall attrition rate
 - Total Count of Employees
-- Avarage Age of Employee
-- Avarage Salary of Employee
-- Avarage Years of Employee at Company
+- Average Age of Employee
+- Average Salary of Employee
+- Average Years of Employee at Company
 
 ## Data Source
 The analysis is based on the `HR_Analytics.csv` dataset, which contains detailed employee information and related metrics.
